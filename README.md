@@ -1,2 +1,25 @@
-# 4db7d5fddbf8e81e-church-ministry-performance-me
-Professional performance metrics dashboard built for church ministry operations and growth.
+# Church Ministry Performance Metrics Dashboard
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/cNi5kD3aLe2M8FG8nGcZe1X)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/cNi5kD3aLe2M8FG8nGcZe1X)
+
